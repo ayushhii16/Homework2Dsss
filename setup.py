@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="math-quiz",
+    name="math-quiz-ayushi",
     version="0.1",
     description="A simple math quiz game in Python",
     long_description=open('README.md').read(),
